@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Who developed Python?",
+            "options": ["Dennis Ritchie", "Guido van Rossum", "James Gosling", "Bjarne Stroustrup"],
+            "answer": 2
+        },
+        {
+            "question": "Which extension is used for Python files?",
+            "options": [".java", ".cpp", ".py", ".html"],
+            "answer": 3
+        },
+        {
+            "question": "Which function is used to display output in Python?",
+            "options": ["input()", "print()", "display()", "show()"],
+            "answer": 2
+        },
+        {
+            "question": "Which symbol is used for single-line comments in Python?",
+            "options": ["//", "/*", "#", "--"],
+            "answer": 3
+        },
+        {
+            "question": "Which data type stores True or False values?",
+            "options": ["int", "str", "bool", "float"],
+            "answer": 3
+        },
+        {
+            "question": "Which function is used to check the data type of a variable?",
+            "options": ["type()", "check()", "typeof()", "datatype()"],
+            "answer": 1
+        },
+        {
+            "question": "Which operator is used for exponentiation in Python?",
+            "options": ["^", "**", "//", "%%"],
+            "answer": 2
+        },
+        {
+            "question": "What is the output of 10 // 3?",
+            "options": ["3.33", "3", "1", "4"],
+            "answer": 2
+        },
+        {
+            "question": "Which function is used to take input from the user?",
+            "options": ["get()", "scan()", "input()", "read()"],
+            "answer": 3
+        },
+        {
+            "question": "Which data type is immutable?",
+            "options": ["List", "Dictionary", "Set", "Tuple"],
+            "answer": 4
+        },
+        {
+            "question": "Which keyword is used for conditional statements?",
+            "options": ["if", "when", "check", "condition"],
+            "answer": 1
+        },
+        {
+            "question": "Which keyword is used when a condition is false?",
+            "options": ["for", "else", "while", "break"],
+            "answer": 2
+        },
+        {
+            "question": "Which loop is commonly used to iterate over a sequence?",
+            "options": ["if", "switch", "for", "try"],
+            "answer": 3
+        },
+        {
+            "question": "Which keyword terminates a loop?",
+            "options": ["continue", "pass", "skip", "break"],
+            "answer": 4
+        },
+        {
+            "question": "Which keyword skips the current iteration of a loop?",
+            "options": ["break", "continue", "return", "exit"],
+            "answer": 2
+        },
+        {
+            "question": "Which function returns the length of a sequence?",
+            "options": ["count()", "size()", "len()", "length()"],
+            "answer": 3
+        },
+        {
+            "question": "Which method adds an element to the end of a list?",
+            "options": ["add()", "append()", "insert_end()", "push()"],
+            "answer": 2
+        },
+        {
+            "question": "Which method removes all elements from a list?",
+            "options": ["delete()", "remove()", "clear()", "pop()"],
+            "answer": 3
+        },
+        {
+            "question": "Which data structure stores key-value pairs?",
+            "options": ["List", "Tuple", "Set", "Dictionary"],
+            "answer": 4
+        },
+        {
+            "question": "Which symbol represents an empty dictionary?",
+            "options": ["[]", "{}", "()", "<>"],
+            "answer": 2
+        },
+        {
+            "question": "Which method returns all dictionary keys?",
+            "options": ["values()", "items()", "keys()", "get()"],
+            "answer": 3
+        },
+        {
+            "question": "Which method converts a string into lowercase?",
+            "options": ["lower()", "small()", "tolower()", "case()"],
+            "answer": 1
+        },
+        {
+            "question": "Which operator checks equality between two values?",
+            "options": ["=", "!=", "==", ">="],
+            "answer": 3
+        },
+        {
+            "question": "Which keyword is used to define a function?",
+            "options": ["function", "def", "fun", "define"],
+            "answer": 2
+        },
+        {
+            "question": "Which keyword sends a value back from a function?",
+            "options": ["print", "break", "return", "yield"],
+            "answer": 3
+        },
+        {
+            "question": "What is a lambda function?",
+            "options": ["Anonymous function", "Loop", "Class", "Module"],
+            "answer": 1
+        },
+        {
+            "question": "Which keyword is used to handle exceptions?",
+            "options": ["catch", "try", "error", "handle"],
+            "answer": 2
+        },
+        {
+            "question": "Which block executes whether an exception occurs or not?",
+            "options": ["except", "else", "finally", "raise"],
+            "answer": 3
+        },
+        {
+            "question": "Which keyword is used to manually raise an exception?",
+            "options": ["throw", "error", "except", "raise"],
+            "answer": 4
+        },
+        {
+            "question": "Which function opens a file in Python?",
+            "options": ["file()", "open()", "read()", "load()"],
+            "answer": 2
+        },
+        {
+            "question": "Which file mode is used to read a file?",
+            "options": ["w", "a", "r", "x"],
+            "answer": 3
+        },
+        {
+            "question": "Which Python module is used to work with JSON?",
+            "options": ["csv", "json", "os", "sys"],
+            "answer": 2
+        },
+        {
+            "question": "Which function converts a Python object into a JSON string?",
+            "options": ["json.load()", "json.dump()", "json.dumps()", "json.loads()"],
+            "answer": 3
+        },
+        {
+            "question": "Which function reads JSON data from a file?",
+            "options": ["json.load()", "json.dump()", "json.loads()", "json.read()"],
+            "answer": 1
+        },
+        {
+            "question": "What does OOP stand for?",
+            "options": ["Object Oriented Programming", "Open Object Process", "Online Operating Program", "Object Output Programming"],
+            "answer": 1
+        },
+        {
+            "question": "Which keyword is used to create a class?",
+            "options": ["object", "class", "def", "new"],
+            "answer": 2
+        },
+        {
+            "question": "What is an object in Python?",
+            "options": ["A function", "A loop", "An instance of a class", "A module"],
+            "answer": 3
+        },
+        {
+            "question": "Which method is called automatically when an object is created?",
+            "options": ["start()", "__init__()", "main()", "create()"],
+            "answer": 2
+        },
+        {
+            "question": "What does self represent in a class?",
+            "options": ["Parent class", "Current instance", "Module", "Constructor"],
+            "answer": 2
+        },
+        {
+            "question": "Which OOP concept allows one class to acquire properties of another class?",
+            "options": ["Encapsulation", "Abstraction", "Inheritance", "Polymorphism"],
+            "answer": 3
+        },
+        {
+            "question": "Which function is used to call a parent class method?",
+            "options": ["parent()", "super()", "base()", "inherit()"],
+            "answer": 2
+        },
+        {
+            "question": "Which OOP concept hides internal implementation details?",
+            "options": ["Inheritance", "Polymorphism", "Abstraction", "Iteration"],
+            "answer": 3
+        },
+        {
+            "question": "Which module provides abstract base classes?",
+            "options": ["abc", "math", "os", "random"],
+            "answer": 1
+        },
+        {
+            "question": "Which decorator is used to define an abstract method?",
+            "options": ["@property", "@staticmethod", "@abstractmethod", "@classmethod"],
+            "answer": 3
+        },
+        {
+            "question": "Which OOP concept allows the same interface to have different implementations?",
+            "options": ["Encapsulation", "Polymorphism", "Inheritance", "Compilation"],
+            "answer": 2
+        },
+        {
+            "question": "Which method is used to represent an object as a string?",
+            "options": ["__init__()", "__str__()", "__main__()", "__repr__()"],
+            "answer": 2
+        },
+        {
+            "question": "Which keyword is used to create an anonymous function?",
+            "options": ["def", "anonymous", "lambda", "function"],
+            "answer": 3
+        },
+        {
+            "question": "Which module is commonly used to generate random numbers?",
+            "options": ["random", "math", "statistics", "numbers"],
+            "answer": 1
+        },
+        {
+            "question": "Which keyword is used to import a module?",
+            "options": ["include", "using", "require", "import"],
+            "answer": 4
+        },
+        {
+            "question": "What is the output of len([10, 20, 30, 40])?",
+            "options": ["3", "4", "5", "10"],
+            "answer": 2
+        }
+    ]
+}
